@@ -4,7 +4,7 @@
 	Copyright (c) [YEAR] [AUTHOR], [PROJECT]. All rights reserved.
 ===============================================================================
 SOFTWARE_LICENSE_AGGREEMENT
-This Software License Agreement ("Agreement") is made and entered into as of 2024-11-8 ("Effective Date") by and between [AUTHOR], entity author of [PROJECT] ("Licensor"), and Customer, the entity that want to use the software ("Licensee").
+This Software License Agreement ("Agreement") is made and entered into as of [DATE YYYYY-MM-DD] ("Effective Date") by and between [AUTHOR], entity author of [PROJECT] ("Licensor"), and Customer, the entity that want to use the software ("Licensee").
 
 WHEREAS, Licensor owns software called [PROJECT] that it desires to license to Licensee;
 
@@ -36,7 +36,7 @@ Among the replication methods known to date are visual methods and the introduct
 
 - Media: Any audio, files and visual content that is produced through the use of software, It is understood that the content produced is the property of the software that has the instructions to be able to deliver a perceptible result to the user.
 
-- Attribution: The action of considering that something is caused by the author of the work as a result of derivative content and that the rights to the content derived from {PROJECT} belong to the {AUTHOR} unless otherwise indicated by a public notice communicated by the author, the attribution actions could be defined in the license, otherwise these may be through mentions or payment.
+- Attribution: The action of considering that something is caused by the author of the work as a result of derivative content and that the rights to the content derived from [PROJECT] belong to the [AUTHOR] unless otherwise indicated by a public notice communicated by the author, the attribution actions could be defined in the license, otherwise these may be through mentions or payment.
 
 - Suppliers: They are entities chosen by the licensor to act as intermediaries between the distribution and sale of the software.
 
