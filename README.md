@@ -2,7 +2,7 @@ Copyright (c) *[YEAR]* *[AUTHOR]*, *[PROJECT]*. All rights reserved.
 
 # SOFTWARE_LICENSE_AGGREEMENT
 
-This Software License Agreement ("Agreement") is made and entered into as of 2024-11-8 ("Effective Date") by and between *[AUTHOR]*, entity author of *[PROJECT]* ("Licensor"), and Customer, the entity that want to use the software ("Licensee").
+This Software License Agreement ("Agreement") is made and entered into as of *[DATE YYYY-MM-DD]* ("Effective Date") by and between *[AUTHOR]*, entity author of *[PROJECT]* ("Licensor"), and Customer, the entity that want to use the software ("Licensee").
 
 WHEREAS, Licensor owns software called *[PROJECT]* that it desires to license to Licensee;
 
